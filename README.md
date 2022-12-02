@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @FeloxyV
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning php
+- 🌱 I’m currently learning php and python
 - 💞️ I’m looking to collaborate on html,css,uikit framework web design
 - 📫 How to reach me email- feloxyvrane@gmail.com
 
